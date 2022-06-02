@@ -5,7 +5,7 @@
 ---This project was to provide Louise an analysis on the likely success of raising funds and opening her play "Fever".---We further dive into comparison of other successful project launches based on fundrasing goal and launch date.This will allow    Louise to assess the best time and target goal for her play to be the most successful
 ### Analysis and Challenges
 #### Analysis
----Information is gathered with criteria based on historical data that is filtered around launch date and fundrasing goals of theater plays.---In addition to the data some visual representation of the data comparing the Theater Outcomes vs. Launch as show in ![Theater   Outcomes vs. Launch](https://github.com/jobloom79/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.PNG) and ![Outcomes   vs. Goals](https://github.com/jobloom79/kickstarter-analysis/blob/main/Outcomes_vs_Goals.PNG)
+---Information is gathered with criteria based on historical data that is filtered around launch date and fundrasing goals of theater plays.---In addition to the data some visual representation of the data comparing the Theater Outcomes vs. Launch as show in ![Theater   Outcomes vs. Launch](https://github.com/jobloom79/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) and ![Outcomes   vs. Goals](https://github.com/jobloom79/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 #### Challenges
 ---Some challenges are making sure the data is clean and properly being analyzed with mathmatical computation.
 ---When glossing over some of the information, I had to go back and redo some inputs to prevent corrupt data causing incorrect outputs. I had to look up some how to's on some of the mathmatical formulas like the COUNTIFS() function.
